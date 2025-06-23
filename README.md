@@ -3,7 +3,9 @@
 A comprehensive web application that serves as a marketplace for AI agents, built with Vue.js frontend and FastAPI backend. AgentCore provides users with access to specialized AI assistants for various tasks including creative writing, coding, research, business consulting, and data science.
 
 **Video demonstration**: [Watch](https://drive.google.com/file/d/1X9Lx7OyTpHR0Qysc8DtTXwxW7wikjG1W/view?usp=drive_link)  
+
 **Web-app AgentCore**: [agentcorebeta.replit.app](https://agentcorebeta.replit.app/)
+
 **Project Vision**: [Read](https://docs.google.com/document/d/1yjog81gkk4jF9WLafZSTn7SRXUQA13SG/edit?usp=drive_link&ouid=107938866912014909547&rtpof=true&sd=true)
 
 
